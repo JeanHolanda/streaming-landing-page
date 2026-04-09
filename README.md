@@ -28,7 +28,7 @@ Durante o desenvolvimento deste projeto, foi possível praticar:
 
 ## 👉🏽 Acesso ao projeto: https://jeanholanda.github.io/Projeto-Netflix/
 <p align= "center">
-  <img src="https://raw.githubusercontent.com/JeanHolanda/Projeto-Netflix/a3e9b3846fa6c5248bfaf60f1611f7cd5fac9cb6/assets/Projeto-Netflix.png.png" 
+  <img src="https://github.com/JeanHolanda/Projeto-Netflix/blob/main/assets/Projeto-Netflix.png?raw=true" 
   alt="Prévia do projeto Netflix UI Clone" 
   width= 700px>
 </p>
