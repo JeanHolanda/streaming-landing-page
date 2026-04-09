@@ -1,34 +1,72 @@
-# Netflix UI Clone 🎬
+# 🎬 Streaming Landing Page
 
-Projeto Front-End desenvolvido com o objetivo de praticar e consolidar conhecimentos em **HTML e CSS**, recriando a interface da Netflix com foco em layout, responsividade e organização de código.
+A modern streaming service landing page inspired by real-world platforms, focused on visual design, layout structure and user experience.
 
-## 📌 Objetivo do Projeto
-Reproduzir uma interface inspirada na Netflix, aplicando boas práticas de desenvolvimento Front-End, atenção à experiência do usuário e estruturação visual.
+🔗 **Live Demo:** https://jeanholanda.github.io/streaming-landing-page/
 
-## 🚀 Tecnologias Utilizadas
-- HTML5
-- CSS3
+---
 
-## 🎨 Funcionalidades
-- Layout inspirado na interface da Netflix
-- Estrutura visual organizada
-- Design responsivo para diferentes tamanhos de tela
-- Estilização moderna utilizando CSS
+## About the project
 
-## 📱 Responsividade
-O projeto foi desenvolvido com foco em responsividade, garantindo uma boa experiência tanto em desktop quanto em dispositivos móveis.
+This project is a front-end interface inspired by popular streaming platforms, designed to replicate a modern and immersive user experience.
 
-## 🧠 Aprendizados
-Durante o desenvolvimento deste projeto, foi possível praticar:
-- Estruturação semântica com HTML
-- Estilização com CSS
-- Responsividade com media queries
-- Organização e legibilidade de código
-- Conceitos básicos de UI/UX aplicados na prática
+It focuses on layout composition, visual hierarchy and interface design, simulating a real product landing page.
 
-## 👉🏽 Acesso ao projeto: https://jeanholanda.github.io/Projeto-Netflix/
-<p align= "center">
-  <img src="https://github.com/JeanHolanda/Projeto-Netflix/blob/main/assets/Projeto-Netflix.png?raw=true" 
-  alt="Prévia do projeto Netflix UI Clone" 
-  width= 700px>
+---
+
+## Sobre o projeto
+
+Este projeto é uma interface front-end inspirada em plataformas de streaming, criada para simular uma experiência moderna e imersiva para o usuário.
+
+O foco está na composição de layout, hierarquia visual e design de interface, simulando uma landing page de um produto real.
+
+---
+
+## 🎯 Purpose
+
+The main goal of this project is to improve my front-end development skills, especially:
+
+- Structuring responsive layouts  
+- Improving visual hierarchy  
+- Replicating real-world interfaces  
+
+---
+
+## 🚀 Technologies
+
+- HTML5  
+- CSS3  
+
+---
+
+## ✨ Features
+
+- 🎬 Streaming platform inspired interface  
+- 🎨 Dark theme with gradient overlay  
+- 🖱️ Creating interactive buttons and hover effects  
+- 📱 Building structured and centered layout  
+- 🧩 Organizing header and call-to-action section  
+
+---
+
+## 💡 What I learned
+
+- Structuring landing pages using semantic HTML  
+- Applying CSS for layout and positioning  
+- Creating overlay effects with gradients  
+- Building centered layouts using Flexbox  
+- Improving UI consistency and visual balance  
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JeanHolanda/streaming-landing-page/68e59b4b21c56c2f4d3e90dc969185dc2fc4d820/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post.png" width="650">
 </p>
+
+---
+
+## 🧑‍💻 Author
+
+Developed by Jean Holanda 🚀
