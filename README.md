@@ -2,7 +2,7 @@
 
 A modern streaming service landing page inspired by real-world platforms, focused on visual design, layout structure and user experience.
 
-🔗 **Live Demo:** https://jeanholanda.github.io/streaming-landing-page/
+🔗 **Live Demo:** [Streaming Landing Page](https://jeanholanda.github.io/streaming-landing-page/)
 
 ---
 
